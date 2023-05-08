@@ -1,6 +1,7 @@
 body {
     text-align: center;
     margin: 0px;
+    font-family: 'OpenSans', san-serif;
 }
 
 .header {
@@ -44,6 +45,7 @@ body {
 
 .container {
     width: 400px;
+    margin-left: 30px;
 }
 
 .to-do-img {
